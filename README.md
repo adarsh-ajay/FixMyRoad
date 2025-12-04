@@ -1,8 +1,4 @@
-# Pothole-report
-
-[![GitHub top language](https://img.shields.io/github/languages/top/nitinkoberoii/Pothole-report?style=flat-square)](https://github.com/nitinkoberoii/Pothole-report)
-[![GitHub stars](https://img.shields.io/github/stars/nitinkoberoii/Pothole-report?style=flat-square)](https://github.com/nitinkoberoii/Pothole-report/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nitinkoberoii/Pothole-report?style=flat-square)](https://github.com/nitinkoberoii/Pothole-report/network/members)
+# FixMyRoad
 
 A real-time, map-based platform for reporting and managing potholes, built with TypeScript, React, and Node.js. This application empowers users to quickly report road defects and provides an administration interface for tracking and managing these reports, potentially with real-time updates.
 
